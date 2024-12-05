@@ -1,2 +1,2 @@
 # pandas_vs_polars
-apresentação pro #12 pylestras
+Apresentação para o #12 pylestras do grupy-sanca, 7/12/24
